@@ -8,6 +8,11 @@ sonar:
    - ADOP_LDAP_ENABLED=false
    - SONARQUBE_JDBC_USERNAME=sonar
    - SONARQUBE_JDBC_PASSWORD=sonar
+   - LDAP_URL=${LDAP_URL}
+   - LDAP_BIND_DN=${LDAP_BIND_DN}
+   - LDAP_BIND_PASSWORD=${LDAP_PASSWORD}
+   - LDAP_USER_BASE_DN=cn=$${username}
+   - LDAP_USER_EMAIL_ATTRIBUTE=email
    - SONARQUBE_JDBC_URL=jdbc:mysql://mysql:3306/sonar?useUnicode=true&characterEncoding=utf8&rewriteBatchedStatements=true 
 mysql:
  image: mysql:5.7
