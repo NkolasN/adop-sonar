@@ -1,5 +1,5 @@
 https://binaries.sonarsource.com/Distribution/sonar-javascript-plugin/sonar-javascript-plugin-5.1.1.7506.jar
-https://binaries.sonarsource.com/Distribution/sonar-java-plugin/sonar-java-plugin-5.9.2.16552.jar
+https://binaries.sonarsource.com/Distribution/sonar-java-plugin/sonar-java-plugin-5.13.0.18197.jar
 https://binaries.sonarsource.com/Distribution/sonar-ldap-plugin/sonar-ldap-plugin-2.2.0.608.jar
 http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/scm-activity/sonar-scm-activity-plugin/1.8/sonar-scm-activity-plugin-1.8.jar
 https://github.com/checkstyle/sonar-checkstyle/releases/download/4.20/checkstyle-sonar-plugin-4.20.jar
@@ -11,3 +11,6 @@ https://binaries.sonarsource.com/Distribution/sonar-xml-plugin/sonar-xml-plugin-
 https://github.com/pmayweg/sonar-groovy/releases/download/1.5/sonar-groovy-plugin-1.5.jar
 http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-issues-report-plugin/1.3/sonar-issues-report-plugin-1.3.jar
 https://github.com/spotbugs/sonar-findbugs/releases/download/3.9.4/sonar-findbugs-plugin-3.9.4.jar
+https://binaries.sonarsource.com/Distribution/sonar-jacoco-plugin/sonar-jacoco-plugin-1.0.1.143.jar
+https://binaries.sonarsource.com/Distribution/sonar-python-plugin/sonar-python-plugin-1.13.0.2922.jar
+https://binaries.sonarsource.com/Distribution/sonar-typescript-plugin/sonar-typescript-plugin-1.9.0.3766.jar
